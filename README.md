@@ -33,7 +33,7 @@ django, djangorestframework, postgresql, postgis
 # pre-requisite: install postgresql with postgis extension
 
 # project setup
-1. git clone https://github.com/chandrabhushan01/moveez.git
+1. git clone https://github.com/Chandrabhushan01/moveez.git
 2. create a virtualenv using: virtualenv venv (install virtualenv on your machine if not already installed)
 3. activate environment using: source venv/bin/activate
 4. upgrade pip using: pip install --upgrade pip
